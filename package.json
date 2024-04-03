@@ -1,0 +1,12 @@
+{
+  "name": "vocalized",
+  "version": "0.1.0",
+  "description": "React components & utilities for voice AI applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benyam Ephrem <admin@onsite.dev>",
+  "license": "MIT",
+  "private": false
+}
