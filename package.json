@@ -2,11 +2,19 @@
   "name": "vocalized",
   "version": "0.1.0",
   "description": "React components & utilities for voice AI applications",
+  "repository": "https://github.com/bephrem1/vocalized.git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Benyam Ephrem <admin@onsite.dev>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "keywords": [
+    "voice",
+    "react voice",
+    "voice components",
+    "voice ui",
+    "voice ai"
+  ]
 }
