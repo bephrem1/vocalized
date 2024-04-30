@@ -1,2 +1,3 @@
 # vocalized
-React components &amp; utilities for voice AI applications
+
+Modern React components for voice AI developers.

@@ -1,20 +1,29 @@
 {
   "name": "vocalized",
   "version": "0.1.0",
-  "description": "React components & utilities for voice AI applications",
-  "repository": "https://github.com/bephrem1/vocalized.git",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "description": "Modern React components for voice AI developers.",
+  "homepage": "https://vocalized.dev/ui",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bephrem1/vocalized.git"
   },
-  "author": "Benyam Ephrem <admin@onsite.dev>",
-  "license": "MIT",
-  "private": false,
+  "author": {
+    "name": "Benyam Ephrem",
+    "url": "https://twitter.com/notbenyam"
+  },
   "keywords": [
-    "voice",
-    "react voice",
-    "voice components",
     "voice ui",
-    "voice ai"
-  ]
+    "voice ai",
+    "voice components",
+    "react voice",
+    "react voice ui",
+    "react voice ai",
+    "react voice components",
+    "voice"
+  ],
+  "license": "MIT",
+  "private": false
 }
